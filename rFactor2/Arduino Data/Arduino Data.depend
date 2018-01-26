@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1516980079 source:d:\rfactor2display\arduino data\main.cpp
+	<stdio.h>
+	<tchar.h>
+	"SerialClass.h"
+	<string>
+
+1463834202 d:\rfactor2display\\serialport.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1516575514 source:d:\rfactor2display\arduino data\serialport.cpp
+	"SerialPort.h"
+
+1516980181 d:\rfactor2display\\serialclass.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1517002495 source:d:\arduinohud\rfactor2\arduino data\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"SerialPort.h"
+
+1516985049 d:\arduinohud\rfactor2\\serialport.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1516996034 source:d:\arduinohud\rfactor2\arduino data\serialport.cpp
+	"SerialPort.h"
+
